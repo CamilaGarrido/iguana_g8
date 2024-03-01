@@ -1,0 +1,185 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+    }
+
+.barrapadre{
+top: 0px;
+left: 0px;
+width: 1280px;
+height: 73px;
+background: #000000 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.barrahijo{
+    top: 7px;
+    left: 530px;
+    width: 221px;
+    height: 59px;
+}
+
+.tituloiguana{
+    text-align: center;
+    font: normal normal medium 50px/59px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    }
+
+body {
+    background-color: #000000;
+    background-position:center
+}
+
+.imagen1{
+    text-align: center;
+    padding: 20px;
+    background: transparent url("../img/bg-header.jpg") 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.imagenhija{
+    top: 73px;
+    left: 0px;
+    width: 1280px;
+    height: 727px;
+}
+
+.secciontexto {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.contenido {
+    display: flex;
+    align-items: center;
+}
+
+/* Estilos para el párrafo */
+.parrafo {
+    text-align: right;
+    font: normal normal 300 16px/19px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-right: 100px; 
+    margin-left: 100px;
+    text-align: justify;
+}
+
+/* Estilos para la imagen */
+.imagen {
+    width: 399px;
+    height: 237px;
+    background-image: url("../img/iguana-1.jpg"); 
+    opacity: 1;
+}
+
+.section_caracteristicas {
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.98;
+    color: white;
+}
+
+.elementos {
+    /*margin: 0 auto;
+    width: 75%;*/
+    text-align: center;
+    padding: 75px;
+}
+
+.caracteristicas_h2 {
+    margin-bottom: 50px;
+    font-size: 40px;
+}
+
+.elementos article {
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 24px;
+}
+    
+
+.imagen2 {
+    top: 1561px;
+    left: 150px;
+    width: 316px;
+    height: 202px;
+    /* UI Properties */
+    background: transparent url("../img/iguana-2.jpg") 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+/* Estilos para la segunda imagen */
+.imagen3 {
+    top: 1561px;
+    left: 482px;
+    width: 316px;
+    height: 202px;
+    /* UI Properties */
+    background: transparent url("../img/iguana-3.jpg") 0% 0% no-repeat padding-box;
+    opacity: 1;}
+    
+
+/* Estilos para la tercera imagen */
+.imagen4 {
+    top: 1561px;
+left: 814px;
+width: 316px;
+height: 202px;
+/* UI Properties */
+background: transparent url("../img/iguana-4.jpg") 0% 0% no-repeat padding-box;
+opacity: 1;
+    
+}
+
+
+/* Estilos para la barra café */
+.barra-cafe {
+    display: flex; /* Mostrar elementos en línea */
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Centrar verticalmente */
+    text-align: justify; /* Justificar el texto */
+    top: 1835px;
+    left: 0px;
+    width: 1350px;
+    height: 102px;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.94;
+}
+
+/* Estilos para el enlace centrado */
+.enlace-centrado {
+    text-decoration: none; /* Quitar subrayado del enlace */
+    color: #FFFFFF; /* Color del texto blanco */
+    font-size: 18px; /* Tamaño de la fuente */
+    top: 1874px;
+    left: 299px;
+    width: 682px;
+    height: 24px;
+
+    text-align: left;
+    font: normal normal 300 20px/24px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+
+}
+.repositorioimagenes {
+    text-align: center; /* Centrar horizontalmente el contenido */
+}
+
+.repositorioimagenes img {
+    display: inline-block; /* Mostrar imágenes en línea */
+    margin: 0 10px; /* Margen horizontal entre las imágenes */
+}     
+
+.repositorioimagenes {
+    margin-top: 50px; /* Margen superior */
+    margin-bottom: 50px; /* Margen inferior */
+    margin-left: 50px; /* Margen izquierdo */
+    margin-right: 50px; /* Margen derecho */
+}
